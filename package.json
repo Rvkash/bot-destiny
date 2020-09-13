@@ -1,0 +1,17 @@
+{
+  "name": "botdestiny",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "nodemon src/botdestinyv1.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
