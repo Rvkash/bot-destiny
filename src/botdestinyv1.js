@@ -78,7 +78,6 @@ function helpCommand(arguments, receivedMessage) {
     }
 }
 
-// bot_secret_token = "NzU0NTE5NzA0MjMxNjA4Mzcx.X117Ow.lSaR2wVUaYVF7T75Iw_aEDJH-Uw"
 
-bot.login("NzU0NTE5NzA0MjMxNjA4Mzcx.X117Ow.lSaR2wVUaYVF7T75Iw_aEDJH-Uw") //Token Discord
+bot.login("") //Token Discord
 
